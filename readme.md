@@ -14,8 +14,12 @@ My CV can be found [here][[CV.pdf (nephren17.github.io)].
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nephren17&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nephren17/nephren17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nephren17/nephren17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nephren17/nephren17/output/github-contribution-grid-snake.svg">
+</picture>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nephren17/count.svg" />
+</p>
