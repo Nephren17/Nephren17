@@ -1,6 +1,6 @@
 ## Ciallo～(∠・ω< )⌒★
 
-<img align='right' src='izumi.png' width='300px'>
+<img align='right' src='izumi.png' width='400px'>
 
 I'm Spark, an undergraduate at University of Michigan. My nickname is Kyanites, which means  is a typically blue aluminosilicate mineral. I take this name from my favorite animation Suka Suka.
 
