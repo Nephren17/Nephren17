@@ -4,7 +4,7 @@
 
 I'm Spark, an undergraduate at University of Michigan, major in [Data Science](https://cse.engin.umich.edu/) and minor in [Mathematics](https://lsa.umich.edu/math). My nickname is Kyanites, which means  is a typically blue aluminosilicate mineral. I take this name from my favorite animation [Suka Suka](https://en.wikipedia.org/wiki/WorldEnd).
 
-Currently, my interest lies in control theory, optimization, AI for Science, mathematics and physics. I've worked on projects related with predicting fuel characteristics with machine learning and am experienced in being teaching assistant. I am applying for graduate programs and expect to graduate in the Summer of 2025. Please reach out to me if you are looking for Ph.D. students.
+Currently, my interest lies in **control theory**, **optimization**, **AI for Science**, **mathematics** and **physics**. I've worked on projects related with predicting fuel characteristics with machine learning and designing controller with spiking neural networks. I am also experienced in being teaching assistant. I am applying for graduate programs and expect to graduate in the Summer of 2025. Please reach out to me if you are looking for Ph.D. students.
 
 Outside academia, my interests include reading novel, playing badminton, tennis and table tennis, and traveling. One of my favorite novelists is [Izumi Kyoka](https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi), whose novels are idealistic and romantic.
 
