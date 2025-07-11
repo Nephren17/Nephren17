@@ -2,7 +2,7 @@
 
 <img align='right' src='izumi.png' width='400px'>
 
-I'm Spark, an undergraduate at University of Michigan, major in [Data Science](https://cse.engin.umich.edu/) and minor in [Mathematics](https://lsa.umich.edu/math).
+I'm Mo, an incoming PhD at University of Toronto in the Department of Mehcnical and Industrial Engineering.
 
 Currently, my interest lies in **nonlinear control**, **cell manipulation** and **medical robotics**. We hope to utilize precise control of medical robots to conduct cell manipulation, especially for oocyte genetic testing. Please feel free to reach me out if there is opportunity for possible research collaboration.
 
