@@ -1,4 +1,4 @@
-## Ciallo～(∠・ω< )⌒★
+## Hi!
 
 <img align='right' src='izumi.png' width='400px'>
 
